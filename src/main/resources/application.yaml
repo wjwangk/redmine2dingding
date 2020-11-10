@@ -1,0 +1,128 @@
+redmine:
+  project:
+    - name: boss聚合支付
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=87afb1a43461ea3272c0604c5c0b5f87017f3a0edb32a71f964fa9a88b951c5a
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 万事利-分销
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=a7f4c7336b9f7463faec67abc5db083f62aa6a06fff507e1292980c48c63bbd2
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 会员营销
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=e1eb408616254ced0258eeea39fdbaaf6e70d083d1401a4ef99f4374dc56c426
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 短信平台
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=342e4b26f86c4454b6052d6545bee276fd37b52983a40f24c576442d19709e01
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 钱宝包
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=868853d6ea6fc7d76b1414a0fd007b904adfbca8b2ca5543cf9f28cc34cd05c4
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 唐狮视频稽查
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=06902b5be61ea4204e5e1c3ad9dc65e4ed4d800b3a3c6b408a5e508fbc5b5933
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: erp-兰州
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=4815bceea567ded9a84314065032aa3ab154f6257f9ee56d554b3ef95da018d3
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: erp-毛源昌
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=4815bceea567ded9a84314065032aa3ab154f6257f9ee56d554b3ef95da018d3
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: erp-绿洲
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=4815bceea567ded9a84314065032aa3ab154f6257f9ee56d554b3ef95da018d3
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 镜小二
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=4815bceea567ded9a84314065032aa3ab154f6257f9ee56d554b3ef95da018d3
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 立收无卡管理后台
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=5e5de63152687910ed63bce658a31d728bbac1fb72c676ff5f1e2e79383b5a4f
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: 客多多
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=e9670024fd3cf306ee28ccca8c6866e6c75dda01b064b4c6641161b4d4f3603b
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: erp-SaaS
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=a78bcd212078b3ad155bc6efc2bb6da83c0c4cd33b38c0cc5c93e237189d8029
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
+    - name: AWS项目组
+      defaultUrl: http://192.168.8.60:3000/
+      redmineUrl: http://192.168.8.60/
+      dingdingWebHookUrl: https://oapi.dingtalk.com/robot/send?access_token=212039b9274bae9dc246a44417ceb9626ef6ce898f0903a95b30195f6a6fe3bb
+      statusColorMap: 新建,#00CCFF;进行中,#FFCC00;已解决,#00CC00;反馈,#9999CC;已关闭,#CCCCCC;已拒绝,#CC0000;挂起,#CCCC33;编辑人,#6699FF;执行人,#3300FF
+      singlePush: 0
+      corpId: dinge1b111f68721084435c2f4657eb6378f
+      corpSecret: XYq0ILc_xFzHwSEA4SRj9Cf9fSaa73UME3At6zN0WLwFvUEkizj6g7Q89chj7oj1
+      agentId: 165678885
